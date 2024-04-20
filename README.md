@@ -9,17 +9,20 @@ Local groups that meet for various activities, such as cricket, pickleball, disc
 
 ## Proposal
 
-The website will be developed for the Auburn community. There will be various pages for users to interact with. Design Requirements:
+The website will be developed for the Auburn community. There will be various pages for users to interact with. 
 
-Create account page: for new users to create an account
-Login page: for existing users to log in to their account
-Interests page: for existing users to add their interests to their profile
-Community page: for existing users to view other users in the community with similar interests
-Recommendations page: for existing users to view recommendations based on shared interests with other people in the community
-Meetings page: for groups to post their event details
-We will need a database to store the users’ account information.
-Development Requirements:
+###Design Requirements:
 
-XML: to store the data
-JSP: to implement login functionality
-MySql: to create the database
+-Create account page: for new users to create an account
+-Login page: for existing users to log in to their account
+-Interests page: for existing users to add their interests to their profile
+-Community page: for existing users to view other users in the community with similar interests
+-Recommendations page: for existing users to view recommendations based on shared interests with other people in the community
+-Meetings page: for groups to post their event details
+-I will need a database to store the users’ account information.
+
+###Development Requirements:
+
+-XML: to store the data
+-JSP: to implement login functionality
+-MySql: to create the database
