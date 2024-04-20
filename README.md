@@ -7,7 +7,8 @@ For my project, I would like to develop a website that can connect local members
 ## Purpose and Scope
 Local groups that meet for various activities, such as cricket, pickleball, disc golf, running, baking, or any other activity, can post their meeting on the Meetings page. The website will suggest meetings to new users and also allow them to create a new event if they don’t find one that meets their interests. I also plan to recommend new activities, based on overlapping interests with people in the community.
 
-##Proposal
+## Proposal
+
 The website will be developed for the Auburn community. There will be various pages for users to interact with. Design Requirements:
 
 Create account page: for new users to create an account
